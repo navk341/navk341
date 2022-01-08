@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @navk341 aka Naveen working as an Analyst in IT company.
-- 👀 I’m interested in Cloud Automation.
-- 🌱 I’m currently learning AWS services, Docker and Jenkins to start my career as a DevOps engineer.
+- 👀 I’m interested in Data Analysis & Cloud Automation.
 - 💞️ I’m looking to collaborate on DevOps, Cloud Technologies.
 - 📫 How to reach me @navk341@gmail.com
 
